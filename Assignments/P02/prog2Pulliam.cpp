@@ -106,6 +106,8 @@ int main() {
   }
   
   cout << "The program has completed.\n";
+  inFile.close();
+  outFile.close();
   return 0;
 }
 
