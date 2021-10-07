@@ -1,0 +1,9 @@
+Kolten Pulliam
+Program 1: Squares
+
+  N   LoopSum       RecSoln        Closed
+ 11       506           506           506
+  6        91            91            91
+  9       285           285           285
+ 12       650           650           650
+  8       204           204           204
