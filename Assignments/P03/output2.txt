@@ -1,0 +1,8 @@
+Kolten Pulliam
+Program 3: Greedy Scheduling/Sorting Program
+Start Time    Length       Finish Time
+ 1             3             4
+ 5             4             9
+12             2            14
+
+Maximun number of activities is 3
